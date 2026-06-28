@@ -1,0 +1,18 @@
+# Dataset files — see DATASET.md for why these are intentionally excluded
+mental_health_dataset.csv
+mental_health_dataset_cleaned.csv
+depression_test_1000.csv
+depression_dataset_reddit_cleaned.csv
+sentiment_tweets3.csv
+Suicide_Detection.csv
+
+# Generated artifacts (re-created by running the notebook)
+*.png
+*.pkl
+dataset_summary.txt
+
+# Jupyter / Python housekeeping
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
